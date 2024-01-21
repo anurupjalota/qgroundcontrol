@@ -27,7 +27,7 @@ Item {
 
     Rectangle {
         id:             borderRect
-        anchors.fill:   parent
+        anchors.fill:   parent.left
         radius:         width / 2
         color:          "black"
     }
